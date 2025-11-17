@@ -1,0 +1,5 @@
+D:\VS\source\repos\SistemaTickets\SistemaTickets\obj\Debug\SistemaTickets.csproj.AssemblyReference.cache
+D:\VS\source\repos\SistemaTickets\SistemaTickets\obj\Debug\SistemaTickets.Presentation.LoginForm.resources
+D:\VS\source\repos\SistemaTickets\SistemaTickets\obj\Debug\SistemaTickets.Properties.Resources.resources
+D:\VS\source\repos\SistemaTickets\SistemaTickets\obj\Debug\SistemaTickets.csproj.GenerateResource.cache
+D:\VS\source\repos\SistemaTickets\SistemaTickets\obj\Debug\SistemaTickets.csproj.CoreCompileInputs.cache

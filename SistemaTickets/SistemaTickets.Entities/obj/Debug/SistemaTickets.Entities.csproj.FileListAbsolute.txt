@@ -1,0 +1,6 @@
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\bin\Debug\SistemaTickets.Entities.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\bin\Debug\SistemaTickets.Entities.pdb
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.csproj.AssemblyReference.cache
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.csproj.CoreCompileInputs.cache
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.pdb

@@ -1,0 +1,11 @@
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\obj\Debug\SistemaTickets.Data.csproj.AssemblyReference.cache
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\obj\Debug\SistemaTickets.Data.csproj.CoreCompileInputs.cache
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\bin\Debug\SistemaTickets.Data.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\bin\Debug\SistemaTickets.Data.pdb
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\bin\Debug\SistemaTickets.Entities.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\bin\Debug\System.Data.SqlClient.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\bin\Debug\SistemaTickets.Entities.pdb
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\bin\Debug\System.Data.SqlClient.xml
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\obj\Debug\SistemaT.21C35A30.Up2Date
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\obj\Debug\SistemaTickets.Data.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Data\obj\Debug\SistemaTickets.Data.pdb

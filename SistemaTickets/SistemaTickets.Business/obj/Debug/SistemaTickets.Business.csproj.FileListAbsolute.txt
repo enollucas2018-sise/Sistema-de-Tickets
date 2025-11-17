@@ -1,0 +1,11 @@
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\obj\Debug\SistemaTickets.Business.csproj.AssemblyReference.cache
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\obj\Debug\SistemaTickets.Business.csproj.CoreCompileInputs.cache
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Business.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Business.pdb
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Data.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Entities.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Data.pdb
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Entities.pdb
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\obj\Debug\SistemaT.775483E7.Up2Date
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\obj\Debug\SistemaTickets.Business.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Business\obj\Debug\SistemaTickets.Business.pdb

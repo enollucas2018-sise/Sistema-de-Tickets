@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SistemaTickets.Business/SistemaTickets.Business.csproj" Id="9811318d-0b67-438c-991e-e7c534929d1e" />
+  <Project Path="SistemaTickets.Data/SistemaTickets.Data.csproj" Id="01957b15-a34f-4408-a555-535a5609a2fa" />
+  <Project Path="SistemaTickets.Entities/SistemaTickets.Entities.csproj" Id="4ced40bc-6f05-479b-b1fa-b704f681fa58" />
+  <Project Path="SistemaTickets/SistemaTickets.Presentation.csproj" Id="7bbd6555-5e81-4647-8499-74e98d0a1e6b" />
+</Solution>
