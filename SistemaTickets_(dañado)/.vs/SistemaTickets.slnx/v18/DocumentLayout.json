@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\source\\repos\\SistemaTickets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01957B15-A34F-4408-A555-535A5609A2FA}|SistemaTickets.Data\\SistemaTickets.Data.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets.data\\connection\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01957B15-A34F-4408-A555-535A5609A2FA}|SistemaTickets.Data\\SistemaTickets.Data.csproj|solutionrelative:sistematickets.data\\connection\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01957B15-A34F-4408-A555-535A5609A2FA}|SistemaTickets.Data\\SistemaTickets.Data.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets.data\\repositories\\logindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01957B15-A34F-4408-A555-535A5609A2FA}|SistemaTickets.Data\\SistemaTickets.Data.csproj|solutionrelative:sistematickets.data\\repositories\\logindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|d:\\vs\\source\\repos\\sistematickets\\sistematickets\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.csproj|solutionrelative:sistematickets\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|d:\\vs\\source\\repos\\sistematickets\\sistematickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9811318D-0B67-438C-991E-E7C534929D1E}|SistemaTickets.Business\\SistemaTickets.Business.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets.business\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9811318D-0B67-438C-991E-E7C534929D1E}|SistemaTickets.Business\\SistemaTickets.Business.csproj|solutionrelative:sistematickets.business\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets.entities\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|solutionrelative:sistematickets.entities\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets.entities\\archivoadjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|solutionrelative:sistematickets.entities\\archivoadjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets.entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|solutionrelative:sistematickets.entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets.entities\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|solutionrelative:sistematickets.entities\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets.entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|solutionrelative:sistematickets.entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|D:\\VS\\source\\repos\\SistemaTickets\\sistematickets.entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|solutionrelative:sistematickets.entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\LoginForm.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaTickets\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T21:34:53.418Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\Program.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets\\Program.cs",
+              "RelativeToolTip": "SistemaTickets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T00:00:45.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets\\MainForm.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\MainForm.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets\\MainForm.cs",
+              "RelativeToolTip": "SistemaTickets\\MainForm.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAAAJwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T23:16:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDAO.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Data\\Repositories\\LoginDAO.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Data\\Repositories\\LoginDAO.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Data\\Repositories\\LoginDAO.cs",
+              "RelativeToolTip": "SistemaTickets.Data\\Repositories\\LoginDAO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T23:09:01.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionDB.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Data\\Connection\\ConnectionDB.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Data\\Connection\\ConnectionDB.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Data\\Connection\\ConnectionDB.cs",
+              "RelativeToolTip": "SistemaTickets.Data\\Connection\\ConnectionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T23:07:09.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\Comentario.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Entities\\Comentario.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\Comentario.cs",
+              "RelativeToolTip": "SistemaTickets.Entities\\Comentario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:48:18.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\LoginForm.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets\\LoginForm.cs",
+              "RelativeToolTip": "SistemaTickets\\LoginForm.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAqwPQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T21:37:35.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Business\\Service\\LoginService.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Business\\Service\\LoginService.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Business\\Service\\LoginService.cs",
+              "RelativeToolTip": "SistemaTickets.Business\\Service\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T23:11:58.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets\\MainForm.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\MainForm.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaTickets\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T23:16:23.156Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArchivoAdjunto.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\ArchivoAdjunto.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Entities\\ArchivoAdjunto.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\ArchivoAdjunto.cs",
+              "RelativeToolTip": "SistemaTickets.Entities\\ArchivoAdjunto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:46:52.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Entities\\Ticket.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\Ticket.cs",
+              "RelativeToolTip": "SistemaTickets.Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:46:20.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\Sistema.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Entities\\Sistema.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\Sistema.cs",
+              "RelativeToolTip": "SistemaTickets.Entities\\Sistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:45:42.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Entities\\Cliente.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\Cliente.cs",
+              "RelativeToolTip": "SistemaTickets.Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:45:02.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Entities\\Usuario.cs",
+              "ToolTip": "D:\\VS\\source\\repos\\SistemaTickets\\SistemaTickets.Entities\\Usuario.cs",
+              "RelativeToolTip": "SistemaTickets.Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:41:30.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

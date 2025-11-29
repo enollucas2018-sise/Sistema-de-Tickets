@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01957B15-A34F-4408-A555-535A5609A2FA}|SistemaTickets.Data\\SistemaTickets.Data.csproj|c:\\users\\user02\\documents\\github\\sistema-de-tickets\\sistematickets\\sistematickets.data\\repositories\\logindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01957B15-A34F-4408-A555-535A5609A2FA}|SistemaTickets.Data\\SistemaTickets.Data.csproj|solutionrelative:sistematickets.data\\repositories\\logindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets.entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|solutionrelative:sistematickets.entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01957B15-A34F-4408-A555-535A5609A2FA}|SistemaTickets.Data\\SistemaTickets.Data.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets.data\\repositories\\ticketdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01957B15-A34F-4408-A555-535A5609A2FA}|SistemaTickets.Data\\SistemaTickets.Data.csproj|solutionrelative:sistematickets.data\\repositories\\ticketdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets\\detalleticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\detalleticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets\\listaticketsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\listaticketsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets\\crearticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\crearticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets\\crearticketform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\crearticketform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets\\crearticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BBD6555-5E81-4647-8499-74E98D0A1E6B}|SistemaTickets\\SistemaTickets.Presentation.csproj|solutionrelative:sistematickets\\crearticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9811318D-0B67-438C-991E-E7C534929D1E}|SistemaTickets.Business\\SistemaTickets.Business.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets.business\\service\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9811318D-0B67-438C-991E-E7C534929D1E}|SistemaTickets.Business\\SistemaTickets.Business.csproj|solutionrelative:sistematickets.business\\service\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\sistematickets.entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CED40BC-6F05-479B-B1FA-B704F681FA58}|SistemaTickets.Entities\\SistemaTickets.Entities.csproj|solutionrelative:sistematickets.entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketDAO.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets.Data\\Repositories\\TicketDAO.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Data\\Repositories\\TicketDAO.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets.Data\\Repositories\\TicketDAO.cs",
+              "RelativeToolTip": "SistemaTickets.Data\\Repositories\\TicketDAO.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAAwFQBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:03:46.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrearTicketForm.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\CrearTicketForm.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\CrearTicketForm.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\CrearTicketForm.cs",
+              "RelativeToolTip": "SistemaTickets\\CrearTicketForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:08:51.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets.Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets.Entities\\Usuario.cs",
+              "RelativeToolTip": "SistemaTickets.Entities\\Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:05:59.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\MainForm.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\MainForm.cs",
+              "RelativeToolTip": "SistemaTickets\\MainForm.cs",
+              "ViewState": "AgIAAIsBAAAAAAAAAAAtwLEBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:09:24.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginDAO.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets.Data\\Repositories\\LoginDAO.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Data\\Repositories\\LoginDAO.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets.Data\\Repositories\\LoginDAO.cs",
+              "RelativeToolTip": "SistemaTickets.Data\\Repositories\\LoginDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:07:29.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\LoginForm.cs",
+              "RelativeToolTip": "SistemaTickets\\LoginForm.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAAwDEBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:54:59.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleTicketForm.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\DetalleTicketForm.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\DetalleTicketForm.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\DetalleTicketForm.cs",
+              "RelativeToolTip": "SistemaTickets\\DetalleTicketForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:45:18.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaTicketsForm.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\ListaTicketsForm.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\ListaTicketsForm.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\ListaTicketsForm.cs",
+              "RelativeToolTip": "SistemaTickets\\ListaTicketsForm.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAAowGsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:44:07.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrearTicketForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\CrearTicketForm.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\CrearTicketForm.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\CrearTicketForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaTickets\\CrearTicketForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:08:16.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearTicketForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\CrearTicketForm.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaTickets\\CrearTicketForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets\\CrearTicketForm.Designer.cs",
+              "RelativeToolTip": "SistemaTickets\\CrearTicketForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:21:27.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets.Business\\Service\\TicketService.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Business\\Service\\TicketService.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets.Business\\Service\\TicketService.cs",
+              "RelativeToolTip": "SistemaTickets.Business\\Service\\TicketService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:26:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets.Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\User02\\Documents\\GitHub\\Sistema-de-Tickets\\SistemaTickets\\SistemaTickets.Entities\\Ticket.cs",
+              "RelativeToolTip": "SistemaTickets.Entities\\Ticket.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T05:57:04.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

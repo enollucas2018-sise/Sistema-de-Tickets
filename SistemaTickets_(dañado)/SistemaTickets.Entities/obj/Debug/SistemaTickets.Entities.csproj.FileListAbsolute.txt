@@ -1,0 +1,12 @@
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\bin\Debug\SistemaTickets.Entities.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\bin\Debug\SistemaTickets.Entities.pdb
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.csproj.AssemblyReference.cache
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.csproj.CoreCompileInputs.cache
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.dll
+D:\VS\source\repos\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\SistemaTickets\SistemaTickets.Entities\bin\Debug\SistemaTickets.Entities.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\SistemaTickets\SistemaTickets.Entities\bin\Debug\SistemaTickets.Entities.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.csproj.AssemblyReference.cache
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\SistemaTickets\SistemaTickets.Entities\obj\Debug\SistemaTickets.Entities.pdb
