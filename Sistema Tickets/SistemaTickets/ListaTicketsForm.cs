@@ -14,7 +14,7 @@ namespace SistemaTickets.Presentation
         private Usuario _usuarioLogueado;
         private List<Ticket> _tickets;
 
-        // Controles
+       
         private DataGridView dgvTickets;
         private TextBox txtBuscar;
         private ComboBox cmbFiltroEstado;
@@ -29,7 +29,7 @@ namespace SistemaTickets.Presentation
             _usuarioLogueado = usuario;
             _ticketService = new TicketService();
             InitializeCustomComponent();
-            CargarTickets(); // Este método ahora existe
+            CargarTickets(); 
         }
 
         private void InitializeCustomComponent()
@@ -39,13 +39,13 @@ namespace SistemaTickets.Presentation
             this.Text = "Gestión de Tickets - Todos los Tickets";
             this.BackColor = Color.White;
 
-            // Panel principal
+            
             var panelPrincipal = new Panel();
             panelPrincipal.Dock = DockStyle.Fill;
             panelPrincipal.Padding = new Padding(20);
             panelPrincipal.BackColor = Color.White;
 
-            // Título
+            
             var lblTitulo = new Label();
             lblTitulo.Text = "GESTIÓN DE TICKETS";
             lblTitulo.Font = new Font("Arial", 16, FontStyle.Bold);
@@ -53,7 +53,7 @@ namespace SistemaTickets.Presentation
             lblTitulo.AutoSize = true;
             lblTitulo.Location = new Point(20, 20);
 
-            // Panel de búsqueda
+            
             var panelBusqueda = new Panel();
             panelBusqueda.Location = new Point(20, 60);
             panelBusqueda.Size = new Size(940, 40);
@@ -97,7 +97,7 @@ namespace SistemaTickets.Presentation
 
             panelBusqueda.Controls.AddRange(new Control[] { lblBuscar, txtBuscar, lblFiltro, cmbFiltroEstado, btnActualizar });
 
-            // DataGridView
+            
             dgvTickets = new DataGridView();
             dgvTickets.Location = new Point(20, 110);
             dgvTickets.Size = new Size(940, 350);
@@ -110,7 +110,7 @@ namespace SistemaTickets.Presentation
             dgvTickets.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvTickets.RowHeadersVisible = false;
 
-            // Configurar columnas
+           
             dgvTickets.Columns.Add("NumeroTicket", "N° Ticket");
             dgvTickets.Columns.Add("Titulo", "Título");
             dgvTickets.Columns.Add("ClienteNombre", "Cliente");
@@ -121,14 +121,14 @@ namespace SistemaTickets.Presentation
             dgvTickets.Columns.Add("FechaCreacion", "Fecha Creación");
             dgvTickets.Columns.Add("UsuarioAsignadoNombre", "Asignado a");
 
-            // Ajustar ancho de columnas específicas
+           
             dgvTickets.Columns["NumeroTicket"].Width = 100;
             dgvTickets.Columns["Estado"].Width = 80;
             dgvTickets.Columns["TipoTicket"].Width = 120;
             dgvTickets.Columns["NivelUrgencia"].Width = 80;
             dgvTickets.Columns["FechaCreacion"].Width = 120;
 
-            // Panel de botones
+            
             var panelBotones = new Panel();
             panelBotones.Location = new Point(20, 470);
             panelBotones.Size = new Size(940, 50);
@@ -199,7 +199,7 @@ namespace SistemaTickets.Presentation
             dgvTickets.CellDoubleClick += (s, e) => BtnVerDetalle_Click(s, e);
         }
 
-        // ========== MÉTODOS AUSENTES AGREGADOS ==========
+       
 
         private void CargarTickets()
         {
@@ -221,7 +221,7 @@ namespace SistemaTickets.Presentation
 
             var ticketsFiltrados = _tickets;
 
-            // Aplicar filtro de búsqueda
+            
             if (!string.IsNullOrEmpty(txtBuscar.Text))
             {
                 var busqueda = txtBuscar.Text.ToLower();
@@ -290,7 +290,7 @@ namespace SistemaTickets.Presentation
             return _tickets.FirstOrDefault(t => t.NumeroTicket == numeroTicket);
         }
 
-        // ========== MÉTODOS DE EVENTOS ==========
+      
 
         private void TxtBuscar_TextChanged(object sender, EventArgs e)
         {
@@ -369,7 +369,7 @@ namespace SistemaTickets.Presentation
         {
             if (disposing)
             {
-                // Limpiar recursos si es necesario
+                
             }
             base.Dispose(disposing);
         }

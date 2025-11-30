@@ -35,3 +35,22 @@ C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTick
 C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTickets\obj\Debug\SistemaTickets.exe
 C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTickets\obj\Debug\SistemaTickets.pdb
 C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTickets\obj\Debug\SistemaTickets.exe.config
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\SistemaTickets.exe.config
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\SistemaTickets.exe
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\SistemaTickets.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\SistemaTickets.Business.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\SistemaTickets.Data.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\SistemaTickets.Entities.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\SistemaTickets.Business.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\SistemaTickets.Data.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\SistemaTickets.Entities.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\obj\Debug\SistemaTickets.Presentation.csproj.AssemblyReference.cache
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\obj\Debug\SistemaTickets.exe.config
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\obj\Debug\SistemaTickets.Properties.Resources.resources
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\obj\Debug\SistemaTickets.Presentation.csproj.GenerateResource.cache
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\obj\Debug\SistemaTickets.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\obj\Debug\SistemaT.D63AF7EE.Up2Date
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\obj\Debug\SistemaTickets.exe
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets\obj\Debug\SistemaTickets.pdb

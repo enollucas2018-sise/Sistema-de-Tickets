@@ -15,13 +15,13 @@ namespace SistemaTickets.Entities
         public string Descripcion { get; set; }
         public string Estado { get; set; }
         public int TiempoAtencion { get; set; }
-        public DateTime FechaCreacion { get; set; }
+        public DateTime FechaCreacion { get; set; } = DateTime.Now;
         public DateTime? FechaSolucion { get; set; }
         public string Solucion { get; set; }
         public string DerivadoA { get; set; }
         public DateTime? FechaDerivacion { get; set; }
 
-        // Propiedades de navegación
+        
         public string ClienteNombre { get; set; }
         public string SistemaNombre { get; set; }
         public string UsuarioAsignadoNombre { get; set; }

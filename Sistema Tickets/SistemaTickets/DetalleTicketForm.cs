@@ -27,14 +27,14 @@ namespace SistemaTickets.Presentation
             this.FormBorderStyle = FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
 
-            // Panel principal
+            
             var panelPrincipal = new Panel();
             panelPrincipal.Dock = DockStyle.Fill;
             panelPrincipal.Padding = new Padding(20);
             panelPrincipal.BackColor = Color.White;
             panelPrincipal.AutoScroll = true;
 
-            // Título
+           
             var lblTitulo = new Label();
             lblTitulo.Text = $"DETALLE DEL TICKET - {_ticket.NumeroTicket}";
             lblTitulo.Font = new Font("Arial", 14, FontStyle.Bold);
@@ -42,10 +42,10 @@ namespace SistemaTickets.Presentation
             lblTitulo.AutoSize = true;
             lblTitulo.Location = new Point(20, 20);
 
-            // Crear controles de información
+            
             var controles = CrearControlesInformacion();
 
-            // Botón cerrar
+            
             var btnCerrar = new Button();
             btnCerrar.Text = "Cerrar";
             btnCerrar.Location = new Point(550, 520);
@@ -56,7 +56,7 @@ namespace SistemaTickets.Presentation
             btnCerrar.Font = new Font("Arial", 10);
             btnCerrar.Click += (s, e) => this.Close();
 
-            // Agregar todos los controles al panel
+            
             panelPrincipal.Controls.Add(lblTitulo);
             foreach (var control in controles)
             {
@@ -72,7 +72,7 @@ namespace SistemaTickets.Presentation
             var controles = new System.Collections.Generic.List<Control>();
             int y = 70;
 
-            // Función para crear filas de información
+            
             void AgregarFila(string etiqueta, string valor, bool esMultilinea = false)
             {
                 var lblEtiqueta = new Label();
@@ -109,7 +109,7 @@ namespace SistemaTickets.Presentation
                 }
             }
 
-            // Información del ticket
+           
             AgregarFila("Título", _ticket.Titulo);
             AgregarFila("Cliente", _ticket.ClienteNombre);
             AgregarFila("Sistema", _ticket.SistemaNombre);
@@ -139,15 +139,15 @@ namespace SistemaTickets.Presentation
 
         private void CargarDatosTicket()
         {
-            // Los datos ya se cargan en la creación de controles
+            
         }
 
-        // Método Dispose simplificado
+        
         protected override void Dispose(bool disposing)
         {
             if (disposing)
             {
-                // Limpiar recursos si es necesario
+                
             }
             base.Dispose(disposing);
         }
