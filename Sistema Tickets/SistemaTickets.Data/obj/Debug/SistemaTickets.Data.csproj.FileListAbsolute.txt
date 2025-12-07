@@ -20,3 +20,14 @@ C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTick
 C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTickets.Data\obj\Debug\SistemaT.21C35A30.Up2Date
 C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTickets.Data\obj\Debug\SistemaTickets.Data.dll
 C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTickets.Data\obj\Debug\SistemaTickets.Data.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\bin\Debug\SistemaTickets.Data.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\bin\Debug\SistemaTickets.Data.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\bin\Debug\SistemaTickets.Entities.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\bin\Debug\SistemaTickets.Entities.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\obj\Debug\SistemaTickets.Data.csproj.AssemblyReference.cache
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\obj\Debug\SistemaTickets.Data.csproj.CoreCompileInputs.cache
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\obj\Debug\SistemaT.21C35A30.Up2Date
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\obj\Debug\SistemaTickets.Data.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Data\obj\Debug\SistemaTickets.Data.pdb

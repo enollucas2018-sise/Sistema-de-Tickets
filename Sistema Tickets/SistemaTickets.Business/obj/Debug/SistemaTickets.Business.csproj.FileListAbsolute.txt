@@ -20,3 +20,14 @@ C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTick
 C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTickets.Business\obj\Debug\SistemaT.775483E7.Up2Date
 C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTickets.Business\obj\Debug\SistemaTickets.Business.dll
 C:\Users\User02\Documents\proyecto sistema de tickets\SistemaTickets\SistemaTickets.Business\obj\Debug\SistemaTickets.Business.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Business.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Business.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Data.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Entities.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Data.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\bin\Debug\SistemaTickets.Entities.pdb
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\obj\Debug\SistemaTickets.Business.csproj.AssemblyReference.cache
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\obj\Debug\SistemaTickets.Business.csproj.CoreCompileInputs.cache
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\obj\Debug\SistemaT.775483E7.Up2Date
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\obj\Debug\SistemaTickets.Business.dll
+C:\Users\User02\Documents\GitHub\Sistema-de-Tickets\Sistema Tickets\SistemaTickets.Business\obj\Debug\SistemaTickets.Business.pdb

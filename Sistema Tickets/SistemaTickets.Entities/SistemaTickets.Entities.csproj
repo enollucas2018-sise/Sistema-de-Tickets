@@ -44,6 +44,7 @@
     <Compile Include="ArchivoAdjunto.cs" />
     <Compile Include="Cliente.cs" />
     <Compile Include="Comentario.cs" />
+    <Compile Include="ReporteTickets.cs" />
     <Compile Include="Sistema.cs" />
     <Compile Include="Ticket.cs" />
     <Compile Include="Usuario.cs" />
